@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ La\ clase\ Persona\ representa\ una\ persona\ con\ un\ nombre\ y\ un\ conjunto\ de\ respuestas\ a\ preguntas.\r\n\ \r\n\ @param\ nombre\ Nombre\ de\ una\ persona.\r\n\ @param\ resp\ Arreglo\ de\ enteros\ con\ referencia\ a\ las\ respuestas\ de\ las\ personas.\r\n\ \r\n\ @author\ Mariana\ Carrasquilla\r\n\ @author\ Jhon\ Anderson\ Marin\r\n\ @version\ 1.0\r\n
+comment1.params=nombre\ resp
+comment1.target=Persona(java.lang.String,\ int[])
+comment1.text=\r\n\ Constructor\ de\ objectos\ de\ la\ clase\ Persona.\ Asigna\ los\ par\u00E1metros\ del\ constructor\ a\ los\ par\u00E1metros\ de\ la\ clase\ y\ a\ su\ vez\ inicializa\ el\ arreglo\ con\ tama\u00F1o\ 5\ \r\n\ \r\n\ @param\ nombre\ El\ nombre\ de\ la\ persona.\r\n\ @param\ resp\ \ \ Un\ arreglo\ de\ enteros\ que\ representa\ las\ respuestas\ de\ la\ persona.\r\n\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ El\ m\u00E9todo\ agrega\ una\ persona\ a\ la\ colecci\u00F3n.\r\n\ \r\n\ @param\ persona\ La\ persona\ a\ agregar\ a\ la\ colecci\u00F3n.\r\n
+comment3.params=
+comment3.target=int[]\ getRespuestas()
+comment3.text=\r\n\ Devuelve\ un\ arreglo\ con\ las\ respuestas\ de\ la\ persona.\r\n\ \r\n\ @return\ Un\ arreglo\ de\ enteros\ que\ representa\ las\ respuestas\ de\ la\ persona.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ en\ forma\ de\ cadena\ de\ la\ persona,\ incluyendo\ su\ nombre\ y\ respuestas.\r\n\ \r\n\ @return\ Una\ cadena\ que\ representa\ a\ la\ persona.\r\n
+numComments=5

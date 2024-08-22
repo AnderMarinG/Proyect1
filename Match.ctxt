@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Match
+comment0.text=\r\n\ Clase\ donde\ se\ crean\ los\ matches\ entre\ dos\ personas.\r\n\ \r\n\ @param\:\ \ un\ double\:\ afinidad,\ un\ string\:\ nombres\ y\ dos\ arrays\:\ resp1,\ resp2.\r\n\ @author\:\ Anderson,\ Mariana.\r\n\ @version\:\ 1.0\r\n
+comment1.params=afinidad\ nombres\ resp1\ resp2
+comment1.target=Match(double,\ java.lang.String,\ int[],\ int[])
+comment1.text=\r\n\ Constructor\ clase\ matches.\r\n
+comment2.params=
+comment2.target=double\ getAfinidad()
+comment2.text=\r\n\ Getter\ del\ atributo\ afinidad.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombres()
+comment3.text=\r\n\ Getter\ del\ atributo\ nombres\r\n
+comment4.params=
+comment4.target=int[]\ getResp1()
+comment4.text=\r\n\ Getter\ del\ atributo\ resp1\r\n
+comment5.params=
+comment5.target=int[]\ getResp2()
+comment5.text=\r\n\ Getter\ del\ atributo\ resp2.\r\n
+numComments=6

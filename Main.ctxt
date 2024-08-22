@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\nClase\ principal,\ donde\ se\ ejecutar\u00E1\ el\ c\u00F3digo\ y\ se\ dar\u00E1\ la\ interacci\u00F3n\ con\ el\ usuario.\r\n\r\n\ @author\ Mariana\ Carrasquilla\r\n\ @author\ Jhon\ Anderson\ Marin\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ El\ m\u00E9todo\ main\ es\ el\ punto\ de\ entrada\ del\ programa\ donde\ se\ manejar\u00E1\ el\ men\u00FA\ y\ las\ interacciones\ del\ usuario\ con\ cada\ opci\u00F3n.\r\n\ \r\n\ @param\ args\ Arreglo\ de\ String\ \r\n
+comment2.params=
+comment2.target=void\ mostrarMenu()
+comment2.text=\r\n\ Este\ m\u00E9todo\ imprime\ el\ men\u00FA\ para\ mostrarle\ al\ usuario\ las\ opciones\ a\ elegir.\r\n
+numComments=3

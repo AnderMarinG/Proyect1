@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Coleccion
+comment0.text=\r\n\ La\ clase\ Coleccion\ representa\ una\ colecci\u00F3n\ de\ personas\ y\ proporciona\ m\u00E9todos\ para\ gestionar\ y\ analizar\ datos\ de\ la\ encuesta.\r\n\ \r\n@param\ personas\ ArrayList\ de\ personas\r\n\r\n\ @author\ Mariana\ Carrasquilla\r\n\ @author\ Jhon\ Anderson\ Marin\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Coleccion()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Coleccion\ que\ inicializa\ la\ lista\ de\ personas.\r\n
+comment2.params=persona
+comment2.target=void\ agregarPersona(Persona)
+comment2.text=\r\n\ Agrega\ una\ persona\ a\ la\ colecci\u00F3n.\r\n\ \r\n\ @param\ persona\ La\ persona\ a\ agregar\ a\ la\ colecci\u00F3n.\r\n
+comment3.params=
+comment3.target=void\ leerDatos()
+comment3.text=\r\n\ Lee\ los\ datos\ de\ un\ archivo\ de\ texto\ y\ crea\ objetos\ Persona\ con\ esa\ informaci\u00F3n,\ separando\ las\ respuestas\ con\ espacios.\r\n
+comment4.params=
+comment4.target=void\ escribirDatos()
+comment4.text=\r\n\ Escribe\ los\ datos\ de\ las\ personas\ que\ est\u00E1n\ almacenadas\ en\ el\ ArrayList\ en\ un\ archivo\ de\ texto.\r\n
+comment5.params=p1\ p2
+comment5.target=double\ match(Persona,\ Persona)
+comment5.text=\r\n\ Calcula\ la\ afinidad\ entre\ dos\ personas\ basado\ en\ sus\ respuestas.\r\n\ \r\n\ @param\ p1\ La\ primera\ persona.\r\n\ @param\ p2\ La\ segunda\ persona.\r\n\ @return\ La\ afinidad\ entre\ las\ dos\ personas.\r\n
+comment6.params=nombre
+comment6.target=int\ buscarPersona(java.lang.String)
+comment6.text=\r\n\ Busca\ una\ persona\ en\ la\ colecci\u00F3n\ por\ su\ nombre.\r\n\ \r\n\ @param\ nombre\ El\ nombre\ de\ la\ persona\ a\ buscar.\r\n\ @return\ La\ posici\u00F3n\ de\ la\ persona\ en\ la\ colecci\u00F3n,\ o\ -1\ si\ no\ se\ encuentra.\r\n
+comment7.params=
+comment7.target=java.util.ArrayList\ getPersonas()
+comment7.text=\r\n\ Obtiene\ la\ lista\ de\ personas\ en\ la\ colecci\u00F3n.\r\n\ \r\n\ @return\ La\ lista\ de\ personas\ en\ la\ colecci\u00F3n.\r\n
+numComments=8
