@@ -10,6 +10,6 @@ Pythagoras, taking the values as the numerical answers to the questions.
 It has 5 basic questions, which can be extended by modifying the fixed arrays, and adding an input and question of
 more in the main.
 
-
 It is executed from the main file, a menu containing the instructions is displayed.
 
+All the coments in the program and the question are in spanish.
